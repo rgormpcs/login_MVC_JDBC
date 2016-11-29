@@ -1,2 +1,2 @@
 # login_MVC_JDBC
-login whit mysql connector and MVC model
+login JavaEE whit mysql connector and MVC model 
